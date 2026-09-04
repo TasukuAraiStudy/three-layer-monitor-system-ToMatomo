@@ -2,7 +2,7 @@
 
 [![Project status: early development](https://img.shields.io/badge/status-early%20development-orange.svg)](#development-status)
 
-**Matomo Three-Layer Monitor** is an open-source research software project for
+**Three-Layer Monitor system (3LMS) To Matomo** is an open-source research software project for
 evaluating the observational quality of event measurement in Matomo. The
 project is intended to identify where an observed web event is retained or
 lost by recording and comparing the same event at three successive layers of
